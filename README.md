@@ -1,9 +1,9 @@
 # MyNotes
-##PyTorch学习笔记
-##TensorFlow学习笔记
-##数据挖掘学习笔记
-##NLP学习笔记
-##DeepLearning学习笔记
-##MachineLearning学习笔记
-##ReinforcementLearning学习笔记
-##TransferLearning学习笔记
+1. PyTorch学习笔记
+2. TensorFlow学习笔记
+3. 数据挖掘学习笔记
+4. NLP学习笔记
+5. DeepLearning学习笔记
+6. MachineLearning学习笔记
+7. ReinforcementLearning学习笔记
+8. TransferLearning学习笔记
